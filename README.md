@@ -64,6 +64,8 @@ I have a folder with mixed files in `E:/COLLEGE 2024/Python Repository/Data/`:
 │— photo.png
 │— notes.txt
 ```
+### Mixed files
+![Mixed files in Data folder](images/different_files.png)
 After running the script, they will be sorted into:  
 ```
 📁 Data
@@ -74,6 +76,8 @@ After running the script, they will be sorted into:
 │— 📁 text files
 │   └── notes.txt
 ```
+### Sorted files
+![Folder Created and files are sorted into respective folders](images/after_running_scripts.png)
 
 ## 🚀 Future Enhancements  
 🔹 Add GUI using **Tkinter** for user-friendly file selection  
